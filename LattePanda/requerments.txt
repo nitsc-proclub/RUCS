@@ -1,0 +1,6 @@
+certifi==2021.5.30
+inputimeout==1.0.4
+PyBluez==0.23
+pyserial==3.5
+uuid==1.30
+wincertstore==0.2

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RUCS</string>
+    <string name="grade">学年</string>
+    <string name="CLASS">クラス</string>
+    <string name="connect">接続</string>
+    <string name="disconnect">切断</string>
+    <string name="write">書き込み</string>
+    <string name="read_string">Read string : </string>
+    <string name="touroku_true">登録できます</string>
+    <string name="touroku_false">登録できません</string>
+    <string name="save">保存</string>
+    <string name="time">時間割</string>
+    <string name="back">戻る</string>
+    <string name="road">更新</string>
+    <string name="kanzi">漢字</string>
+    <string name="kana">ひらがな</string>
+    <string name="up_write">上書き</string>
+    <string name="delete">削除</string>
+    <string name="all_delete">一括削除</string>
+    <string name="checkDB">データベース</string>
+    <string name="class_toroku">学年登録</string>
+    <string name="link_toroku">ID登録</string>
+    <string name="checkBAG">中身確認</string>
+    <string name="class_toroku_mode">がくねんとうろく</string>
+    <string name="link_toroku_mode">IDとうろく</string>
+    <string name="timetable">時間割</string>
+    <string name="news">お知らせ</string>
+    <string name="coment">⚠︎　変更すると登録されたデータがリセットされます</string>
+    <string name="select">あなたの学年とクラスを選択してください</string>
+    <string name="alink">タグを１つセンサーにあててください</string>
+    <string name="getu">月</string>
+    <string name="ka">火</string>
+    <string name="sui">水</string>
+    <string name="moku">木</string>
+    <string name="kin">金</string>
+    <string name="ver">RUCS ver0.33.4</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RUCS</string>
+    <string name="connect">接続</string>
+    <string name="disconnect">切断</string>
+    <string name="write">書き込み</string>
+    <string name="read_string">Read string : </string>
+    <string name="touroku_true">登録できます</string>
+    <string name="touroku_false">登録できません</string>
+    <string name="save">保存</string>
+    <string name="road">更新</string>
+    <string name="coment">⚠︎　情報を変更すると登録されたデータがリセットされます</string>
+</resources>

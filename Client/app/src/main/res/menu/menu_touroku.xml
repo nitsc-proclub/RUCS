@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/class_toroku"
+        app:showAsAction="never"
+        android:title="@string/class_toroku"/>
+    <item
+        android:id="@+id/link_toroku"
+        app:showAsAction="never"
+        android:title="@string/link_toroku"/>
+    <item
+        android:id="@+id/checkDB"
+        app:showAsAction="never"
+        android:title="@string/checkDB"/>
+
+
+
+</menu>
